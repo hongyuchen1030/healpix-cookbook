@@ -11,4 +11,4 @@
 ## About Me
 ### Hongyu Chen
 ### Email: hyvchen@ucdavis.edu
-### MatterMost: hongyu.chen
+### Mattermost: hongyu.chen
